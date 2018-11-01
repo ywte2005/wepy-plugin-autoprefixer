@@ -1,0 +1,51 @@
+{
+  "_from": "wepy-plugin-autoprefixer",
+  "_id": "wepy-plugin-autoprefixer@1.5.10",
+  "_inBundle": false,
+  "_integrity": "sha512-VL18UpUAxxuZPQ09SmZpONhKOPTcbT7ljBwf1dECD0Yvth+666+bo/nxmXdVcUloiE/EKz08cUjtjOg4RXR1zQ==",
+  "_location": "/wepy-plugin-autoprefixer",
+  "_phantomChildren": {
+    "caniuse-lite": "1.0.30000902",
+    "color-convert": "1.9.3",
+    "electron-to-chromium": "1.3.82",
+    "escape-string-regexp": "1.0.5",
+    "has-flag": "3.0.0",
+    "normalize-range": "0.1.2",
+    "num2fraction": "1.2.2",
+    "postcss-value-parser": "3.3.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wepy-plugin-autoprefixer",
+    "name": "wepy-plugin-autoprefixer",
+    "escapedName": "wepy-plugin-autoprefixer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/wepy-plugin-autoprefixer/-/wepy-plugin-autoprefixer-1.5.10.tgz",
+  "_shasum": "2c5dc11466b3ca27e924698c8aa5526cc85ff4dd",
+  "_spec": "wepy-plugin-autoprefixer",
+  "_where": "D:\\Wechat\\demand",
+  "bundleDependencies": false,
+  "dependencies": {
+    "autoprefixer": "^7.1.2",
+    "postcss": "^6.0.9"
+  },
+  "deprecated": false,
+  "description": "wepy autoprefixer plugin",
+  "keywords": [
+    "autoprefixer",
+    "postcss",
+    "wepy"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "wepy-plugin-autoprefixer",
+  "version": "1.5.10"
+}
